@@ -64,7 +64,7 @@ class AddNote : AppCompatActivity() {
                 finish()
 
             }else{
-                Toast.makeText(this@AddNote, "Please add some data",Toast.LENGTH_SHORT).show()
+//                Toast.makeText(this@AddNote, "Please add some data",Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
             }
         }
